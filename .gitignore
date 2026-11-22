@@ -1,3 +1,9 @@
 .venv/
 .venv/
 __pycache__/
+postman/documents/
+postman/environments/
+postman/flows/
+postman/globals/
+postman/mocks/
+postman/specs/
